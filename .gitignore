@@ -1,0 +1,11 @@
+pkg/
+mod/
+vendor/
+*.sum
+*.mod
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
